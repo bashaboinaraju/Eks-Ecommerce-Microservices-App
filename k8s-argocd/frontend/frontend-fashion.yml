@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mluticloud730am/kubernetes-veeraops-ecommerce-microservices-app.git
+    repoURL: https://github.com/bashaboinaraju/Eks-Ecommerce-Microservices-App.git
     path: frontend/fashion
     targetRevision: main
   destination:
